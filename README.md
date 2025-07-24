@@ -1,8 +1,18 @@
-# 💕 Anniversary Love Website
+# 💕 Anniversary Wishes Website
 
-A beautiful, romantic, and elegant anniversary website celebrating 9 years of love between Sheema Masood and Masood Alam.
+A beautiful, romantic, and elegant anniversary website.
 
-![Anniversary Website Preview](https://img.shields.io/badge/Anniversary-9%20Years-pink?style=for-the-badge&logo=heart)
+![React](https://img.shields.io/badge/React-20-blue?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-2.2-cyan?style=for-the-badge&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+
+
+## 🔗 Live Demo
+
+Check out the live anniversary website here:  
+👉 [Visit Website](https://your-deployed-link.netlify.app)
+
+
 
 ## ✨ Features
 
@@ -79,6 +89,12 @@ A beautiful, romantic, and elegant anniversary website celebrating 9 years of lo
 3. **Build Settings for Netlify**
    - Build command: `cd frontend && yarn build`
    - Publish directory: `frontend/build`
+  
+Want to create your own romantic website like this?  
+Click the button below to instantly deploy it on **Netlify**:
+
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/SheemaMasood381/webpage-for-anniversary-wishes)
+
 
 ### Environment Variables
 No environment variables are required for the frontend deployment.
@@ -86,7 +102,7 @@ No environment variables are required for the frontend deployment.
 ## 🎯 Technical Details
 
 ### Tech Stack
-- **Frontend**: React 19, CSS3, HTML5
+- **Frontend**: React 20, CSS3, HTML5
 - **Styling**: Tailwind CSS with custom romantic themes
 - **Icons**: Lucide React
 - **UI Components**: Shadcn/ui components
