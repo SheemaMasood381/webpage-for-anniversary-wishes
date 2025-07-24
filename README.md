@@ -11,10 +11,7 @@ A beautiful, romantic, and elegant anniversary website.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## 🔗 Live Demo
-
-Check out the live anniversary website here:  
-👉 [Visit Website](https://wishanniversary.netlify.app/)
+## ✨ Features
 
 <table>
   <tr>
@@ -22,43 +19,34 @@ Check out the live anniversary website here:
       <img src="./ui.png" alt="Anniversary Website Screenshot" width="400"/>
     </td>
     <td>
-      <p align="left">
-        <strong>Anniversary Love Website</strong><br/><br/>
-        This romantic website celebrates 9 beautiful years of love between <strong>Sheema Masood</strong> and <strong>Masood Alam</strong>. It includes:<br/><br/>
-        ✅ Live day counter<br/>
-        💌 Heartfelt love letter<br/>
-        🖼️ Timeline with memories<br/>
-        🎶 Soft romantic music<br/>
-        💖 Floating hearts<br/><br/>
-        Fully responsive, emotionally engaging, and perfect for anniversaries or special moments.
-      </p>
-    </td>
+
+### 🎨 **Elegant Design**
+- Sophisticated background with subtle textures and elegant gradients  
+- Romantic color palette (blush pink, rose, soft gold)  
+- Custom typography using *Great Vibes*, *Montserrat*, and *Playfair Display*  
+- Floating heart animations for magical ambiance  
+- Fully responsive design for all screen sizes  
+
+### 💌 **Romantic Content**
+- **Hero Section**: "Happy 9th Anniversary, Masood" greeting  
+- **Love Letter**: Heartfelt personal message from Sheema to Masood  
+- **Day Counter**: Live calculation showing days together since July 26, 2016  
+- **Our Journey**: Timeline with image placeholders for cherished memories  
+- **Footer**: "Made with love by Sheema Masood"  
+
+### 🎵 **Interactive Features**
+- 🎶 Background music (romantic piano) with play/pause & mute/unmute  
+- ✨ Smooth fade-in animations and floating hearts  
+- 🖱️ Elegant hover effects and gentle transitions  
+
+</td>
   </tr>
 </table>
 
+## 🔗 Live Demo
 
-
-## ✨ Features
-
-### 🎨 **Elegant Design**
-- Sophisticated background with subtle textures and elegant gradients
-- Romantic color palette (blush pink, rose, soft gold)
-- Custom typography using Great Vibes, Montserrat, and Playfair Display fonts
-- Floating heart animations for magical ambiance
-- Responsive design that works beautifully on all devices
-
-### 💌 **Romantic Content**
-- **Hero Section**: Elegant "Happy 9th Anniversary, Masood" greeting
-- **Love Letter**: Heartfelt personal message from Sheema to Masood
-- **Day Counter**: Live calculation showing exactly how many days they've been together since July 26, 2016
-- **Our Journey**: Timeline section with photo placeholders for memories
-- **Footer**: "Made with love by Sheema Masood" with elegant styling
-
-### 🎵 **Interactive Features**
-- **Background Music**: Romantic piano melodies that play softly
-- **Smooth Animations**: Fade-in effects, floating hearts, and gentle transitions
-- **Hover Effects**: Elegant card lifting and shimmer effects
-- **Music Controls**: Play/pause and mute/unmute functionality
+Check out the live anniversary website here:  
+👉 [Visit Website](https://wishanniversary.netlify.app/)
 
 ## 🚀 Quick Start
 
