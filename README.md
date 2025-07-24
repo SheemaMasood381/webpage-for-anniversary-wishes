@@ -2,7 +2,8 @@
 
 # 💕 Anniversary Wishes Website
 
-A beautiful, romantic, and elegant anniversary website.
+A fully customizable, elegant anniversary webpage built with React and Tailwind CSS — ideal for romantic celebrations, love letters, and sharing precious memories. 
+
 
 ![React](https://img.shields.io/badge/React-20-blue?style=for-the-badge&logo=react)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-2.2-cyan?style=for-the-badge&logo=tailwindcss)
