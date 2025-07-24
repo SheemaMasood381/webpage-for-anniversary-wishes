@@ -119,9 +119,7 @@ Check out the live anniversary website here:
 3. **Build Settings for Netlify**
    - Build command: `cd frontend && yarn build`
    - Publish directory: `frontend/build`
-  
-Want to create your own romantic website like this?  
-Click the button below to instantly deploy it on **Netlify**:
+
 
 [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/SheemaMasood381/webpage-for-anniversary-wishes)
 
