@@ -1,6 +1,4 @@
-<table>
-  <tr>
-    <td width="60%">
+
 
 # 💕 Anniversary Wishes Website
 
@@ -17,6 +15,26 @@ A beautiful, romantic, and elegant anniversary website.
 
 Check out the live anniversary website here:  
 👉 [Visit Website](https://wishanniversary.netlify.app/)
+
+<table>
+  <tr>
+    <td>
+      <img src="./ui.png" alt="Anniversary Website Screenshot" width="400"/>
+    </td>
+    <td>
+      <p align="left">
+        <strong>Anniversary Love Website</strong><br/><br/>
+        This romantic website celebrates 9 beautiful years of love between <strong>Sheema Masood</strong> and <strong>Masood Alam</strong>. It includes:<br/><br/>
+        ✅ Live day counter<br/>
+        💌 Heartfelt love letter<br/>
+        🖼️ Timeline with memories<br/>
+        🎶 Soft romantic music<br/>
+        💖 Floating hearts<br/><br/>
+        Fully responsive, emotionally engaging, and perfect for anniversaries or special moments.
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -238,11 +256,3 @@ This beautiful anniversary website was created with love and attention to detail
 Made with ❤️ by Sheema Masood for 9 beautiful years together.
 
       
-    </td>
-    <td width="40%" align="center">
-      <img src="./ui.png" alt="Anniversary Website Screenshot" width="300" />
-      <br>
-      <em>Website Screenshot</em>
-    </td>
-  </tr>
-</table>
