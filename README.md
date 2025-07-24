@@ -39,6 +39,24 @@ A beautiful, romantic, and elegant anniversary website.
 - ✨ Smooth fade-in animations and floating hearts  
 - 🖱️ Elegant hover effects and gentle transitions  
 
+## 💝 Special Features
+
+- **Day Counter**: Automatically calculates days since July 26, 2016
+- **Elegant Animations**: Smooth fade-in, floating, and shimmer effects
+- **Sophisticated Design**: Professional-grade romantic styling
+- **Interactive Music**: Web Audio API generated piano melodies
+- **Love Letter Integration**: Personal heartfelt message beautifully displayed
+- **Photo Placeholders**: Ready for adding personal memories
+
+## 🎊 Perfect For
+
+- Anniversary celebrations
+- Romantic gestures
+- Wedding anniversaries
+- Valentine's Day
+- Special relationship milestones
+- Love letters and messages
+
 </td>
   </tr>
 </table>
@@ -215,23 +233,6 @@ frontend/
 - `yarn build` - Build for production
 - `yarn test` - Run tests
 
-## 💝 Special Features
-
-- **Day Counter**: Automatically calculates days since July 26, 2016
-- **Elegant Animations**: Smooth fade-in, floating, and shimmer effects
-- **Sophisticated Design**: Professional-grade romantic styling
-- **Interactive Music**: Web Audio API generated piano melodies
-- **Love Letter Integration**: Personal heartfelt message beautifully displayed
-- **Photo Placeholders**: Ready for adding personal memories
-
-## 🎊 Perfect For
-
-- Anniversary celebrations
-- Romantic gestures
-- Wedding anniversaries
-- Valentine's Day
-- Special relationship milestones
-- Love letters and messages
 
 ## 📧 Support
 
