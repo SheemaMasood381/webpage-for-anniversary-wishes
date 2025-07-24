@@ -2,7 +2,7 @@
 
 A beautiful, romantic, and elegant anniversary website celebrating 9 years of love between Sheema Masood and Masood Alam.
 
-![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-20-blue?style=for-the-badge&logo=react)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-2.2-cyan?style=for-the-badge&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
 
