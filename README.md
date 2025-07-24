@@ -34,12 +34,12 @@ A beautiful, romantic, and elegant anniversary website.
 - **Our Journey**: Timeline with image placeholders for cherished memories  
 - **Footer**: "Made with love by Sheema Masood"  
 
-### 🎵 **Interactive Features**
+#### 🎵 **Interactive Features**
 - 🎶 Background music (romantic piano) with play/pause & mute/unmute  
 - ✨ Smooth fade-in animations and floating hearts  
 - 🖱️ Elegant hover effects and gentle transitions  
 
-## 💝 Special Features
+### 💝 Special Features
 
 - **Day Counter**: Automatically calculates days since July 26, 2016
 - **Elegant Animations**: Smooth fade-in, floating, and shimmer effects
@@ -48,7 +48,7 @@ A beautiful, romantic, and elegant anniversary website.
 - **Love Letter Integration**: Personal heartfelt message beautifully displayed
 - **Photo Placeholders**: Ready for adding personal memories
 
-## 🎊 Perfect For
+### 🎊 Perfect For
 
 - Anniversary celebrations
 - Romantic gestures
