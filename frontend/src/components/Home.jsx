@@ -19,7 +19,7 @@ const Home = () => {
 
     const years = today.getFullYear() - anniversaryDate.getFullYear();
     const anniversaryThisYear = new Date(today.getFullYear(), 6, 26); // July is 6 (0-based)
-    const adjustedYears = today >= anniversaryThisYear ? years : years - 1;
+    const adjustedYears = today >= anniversaryThisYear ? years : years ;
     setYearsTogether(adjustedYears);
   }, []);
 
