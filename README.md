@@ -191,6 +191,33 @@ const yourName = "Zara";                        // Your name
 - And all dynamic content  
 will automatically update—no extra setup needed!
 
+### 🖼️ Add Your Personal Photos
+
+To personalize the **"Our Journey"** timeline with your real memories:
+
+1. Go to the `/public/images/` folder  
+2. Add or replace photos with **exact filenames**:
+
+| Filename              | Description                            |
+|-----------------------|----------------------------------------|
+| `wedding-2016.jpg`    | Wedding day photo                      |
+| `first-home-2018.jpg` | First home together                    |
+| `adventures-2020.jpg` | Travel/adventure moment                |
+| `growing-2022.jpg`    | Milestone photo                        |
+| `new-chapters-2024.jpg`| New life chapter                      |
+| `nine-years-2025.jpg` | Current anniversary photo             |
+
+3. **Image Guidelines:**
+   - 📏 400×200 px (2:1 aspect ratio recommended)  
+   - 💾 Under 500KB  
+   - 🖼️ JPG, PNG, or WebP formats  
+
+📸 No coding required — images will display automatically with hover and fade-in effects.  
+If a photo is missing, a beautiful placeholder will appear instead.
+
+> _"A picture is worth a thousand words, but your memories are priceless."_ 💕
+
+
 
 ## 📱 Mobile Responsive
 
