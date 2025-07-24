@@ -238,11 +238,11 @@ This beautiful anniversary website was created with love and attention to detail
 Made with ❤️ by Sheema Masood for 9 beautiful years together.
 
       
-      </td>
-          <td width="40%" align="center">
-            <img src="./Happy-Anniversary-—-Sheema-Masood.png" alt="Anniversary Website Screenshot" width="300"/>
-            <br>
-            <em>Website Screenshot</em>
-          </td>
-   </tr>
+    </td>
+    <td width="40%" align="center">
+      <img src="./ui.png" alt="Anniversary Website Screenshot" width="300" />
+      <br>
+      <em>Website Screenshot</em>
+    </td>
+  </tr>
 </table>
