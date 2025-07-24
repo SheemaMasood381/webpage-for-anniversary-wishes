@@ -1,3 +1,7 @@
+<table>
+  <tr>
+    <td width="60%">
+
 # 💕 Anniversary Wishes Website
 
 A beautiful, romantic, and elegant anniversary website.
@@ -5,12 +9,14 @@ A beautiful, romantic, and elegant anniversary website.
 ![React](https://img.shields.io/badge/React-20-blue?style=for-the-badge&logo=react)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-2.2-cyan?style=for-the-badge&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ## 🔗 Live Demo
 
 Check out the live anniversary website here:  
-👉 [Visit Website](https://your-deployed-link.netlify.app)
+👉 [Visit Website](https://wishanniversary.netlify.app/)
 
 
 
@@ -136,8 +142,33 @@ Three beautiful font families are used:
 - **Montserrat**: Clean sans-serif for body text
 - **Playfair Display**: Sophisticated serif for special text
 
-### Content
-Update the love letter and journey milestones in `Home.jsx` to personalize the content.
+## ✏️ Quick Personalization
+
+1. **Open** `Home.jsx` in your project.
+2. **Update the following lines** with your details:
+
+```js
+const anniversaryDate = new Date("2016-07-26");
+const partnerName = "Masood";
+const yourName = "Sheema";
+```
+
+### 🔁 Replace with your own values
+
+For example:
+
+```js
+const anniversaryDate = new Date("2020-02-14"); // Your anniversary date
+const partnerName = "Adeel";                    // Your partner's name
+const yourName = "Zara";                        // Your name
+```
+
+**Once updated:**
+- The greeting
+- The day counter
+- And all dynamic content  
+will automatically update—no extra setup needed!
+
 
 ## 📱 Mobile Responsive
 
@@ -205,3 +236,13 @@ This beautiful anniversary website was created with love and attention to detail
 **"Every love story is beautiful, but ours is my favorite."** 💕
 
 Made with ❤️ by Sheema Masood for 9 beautiful years together.
+
+      
+      </td>
+          <td width="40%" align="center">
+            <img src="./Happy-Anniversary-—-Sheema-Masood.png" alt="Anniversary Website Screenshot" width="300"/>
+            <br>
+            <em>Website Screenshot</em>
+          </td>
+   </tr>
+</table>
