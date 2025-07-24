@@ -265,8 +265,18 @@ This beautiful anniversary website was created with love and attention to detail
 
 ---
 
-**"Every love story is beautiful, but ours is my favorite."** 💕
+## 📄 License
 
-Made with ❤️ by Sheema Masood for 9 beautiful years together.
+This project is licensed under the **MIT License** — you are free to use, modify, and distribute it for personal or commercial purposes, as long as the original copyright notice is retained.
 
-      
+Made with ❤️ by **Sheema Masood**  
+© 2025 Sheema Masood. All rights reserved.
+
+## 🙋‍♀️ Connect with Me
+
+If you liked this project or want to collaborate, feel free to connect with me:
+
+- 🌐 [LinkedIn – Sheema Masood](https://www.linkedin.com/in/sheema-masood/)
+- 📫 sheemamasood381@gmail.com
+
+
