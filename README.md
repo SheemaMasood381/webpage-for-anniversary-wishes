@@ -66,7 +66,7 @@ A beautiful, romantic, and elegant anniversary website.
 Check out the live anniversary website here:  
 👉 [Visit Website](https://wishanniversary.netlify.app/)
 
-## 🚀 Quick Start
+## 🚀 Quick Start (How to run locally?) 
 
 ### Prerequisites
 - Node.js (v14 or higher)
