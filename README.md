@@ -2,7 +2,17 @@
 
 A beautiful, romantic, and elegant anniversary website celebrating 9 years of love between Sheema Masood and Masood Alam.
 
-![Anniversary Website Preview](https://img.shields.io/badge/Anniversary-9%20Years-pink?style=for-the-badge&logo=heart)
+![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-2.2-cyan?style=for-the-badge&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+
+
+## 🔗 Live Demo
+
+Check out the live anniversary website here:  
+👉 [Visit Website](https://your-deployed-link.netlify.app)
+
+
 
 ## ✨ Features
 
