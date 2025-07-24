@@ -102,7 +102,7 @@ No environment variables are required for the frontend deployment.
 ## 🎯 Technical Details
 
 ### Tech Stack
-- **Frontend**: React 19, CSS3, HTML5
+- **Frontend**: React 20, CSS3, HTML5
 - **Styling**: Tailwind CSS with custom romantic themes
 - **Icons**: Lucide React
 - **UI Components**: Shadcn/ui components
