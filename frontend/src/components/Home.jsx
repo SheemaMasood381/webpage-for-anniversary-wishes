@@ -51,7 +51,7 @@ Sheema ❤️`;
       <BackgroundMusic />
       
       {/* Hero Section */}
-      <section className="relative z-10 pt-20 pb-16 px-4">
+      <section className="hero-romantic relative z-10 pt-20 pb-16 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-8">
             <div className="relative inline-block mb-6">
@@ -128,12 +128,12 @@ Sheema ❤️`;
           <div className="timeline-elegant">
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               {[
-                { year: "2016", title: "Our Wedding Day", desc: "Where it all began", color: "from-rose-400 to-pink-500" },
-                { year: "2018", title: "First Home", desc: "Building our nest together", color: "from-pink-400 to-rose-500" },
-                { year: "2020", title: "Adventures", desc: "Creating memories", color: "from-rose-500 to-pink-400" },
-                { year: "2022", title: "Growing Together", desc: "Stronger every day", color: "from-pink-500 to-rose-400" },
-                { year: "2024", title: "New Chapters", desc: "Writing our story", color: "from-rose-400 to-pink-500" },
-                { year: "2025", title: "9 Years Strong", desc: "Still falling in love", color: "from-pink-400 to-rose-500" }
+                { year: "2016", title: "Our Wedding Day", desc: "Where it all began", color: "from-rose-400 to-pink-500", image: "wedding-2016.jpg" },
+                { year: "2018", title: "First Home", desc: "Building our nest together", color: "from-pink-400 to-rose-500", image: "first-home-2018.jpg" },
+                { year: "2020", title: "Adventures", desc: "Creating memories", color: "from-rose-500 to-pink-400", image: "adventures-2020.jpg" },
+                { year: "2022", title: "Growing Together", desc: "Stronger every day", color: "from-pink-500 to-rose-400", image: "growing-2022.jpg" },
+                { year: "2024", title: "New Chapters", desc: "Writing our story", color: "from-rose-400 to-pink-500", image: "new-chapters-2024.jpg" },
+                { year: "2025", title: "9 Years Strong", desc: "Still falling in love", color: "from-pink-4 to-rose-500", image: "nine-years-2025.jpg" }
               ].map((memory, index) => (
                 <Card key={index} className="classy-card hover-lift group relative z-10">
                   <CardContent className="p-6">
@@ -145,10 +145,24 @@ Sheema ❤️`;
                       <h3 className="text-xl font-playfair text-gray-800 mb-2">{memory.title}</h3>
                       <p className="elegant-text font-montserrat">{memory.desc}</p>
                     </div>
-                    <div className="mt-4 w-full h-32 bg-gradient-to-br from-rose-50 to-pink-50 rounded-lg flex items-center justify-center border-2 border-dashed border-rose-200 group-hover:border-rose-300 transition-colors">
-                      <div className="text-center">
-                        <Camera className="w-8 h-8 text-rose-400 mx-auto mb-2" />
-                        <span className="text-rose-400 font-montserrat text-sm">Photo Placeholder</span>
+                    <div className="mt-4 w-full h-32 bg-gradient-to-br from-rose-50 to-pink-50 rounded-lg overflow-hidden border-2 border-dashed border-rose-200 group-hover:border-rose-300 transition-colors">
+                      {memory.image ? (
+                        <img 
+                          src={`/images/${memory.image}`} 
+                          alt={`${memory.title} - ${memory.year}`}
+                          className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                          onError={(e) => {
+                            // Fallback to placeholder if image doesn't exist
+                            e.target.style.display = 'none';
+                            e.target.nextSibling.style.display = 'flex';
+                          }}
+                        />
+                      ) : null}
+                      <div className="w-full h-full flex items-center justify-center" style={{display: memory.image ? 'none' : 'flex'}}>
+                        <div className="text-center">
+                          <Camera className="w-8 h-8 text-rose-400 mx-auto mb-2" />
+                          <span className="text-rose-400 font-montserrat text-sm">Photo Placeholder</span>
+                        </div>
                       </div>
                     </div>
                   </CardContent>

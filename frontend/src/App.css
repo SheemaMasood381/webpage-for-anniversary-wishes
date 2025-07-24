@@ -51,7 +51,12 @@
 
 /* Elegant Background */
 .elegant-background {
-    background: linear-gradient(135deg, #faf8f6 0%, #f3f1ef 25%, #faf8f6 50%, #f8f6f4 75%, #f5f3f1 100%);
+    background: 
+        linear-gradient(135deg, rgba(250, 248, 246, 0.95) 0%, rgba(243, 241, 239, 0.95) 25%, rgba(250, 248, 246, 0.95) 50%, rgba(248, 246, 244, 0.95) 75%, rgba(245, 243, 241, 0.95) 100%),
+        url('https://images.unsplash.com/photo-1594734415578-00fc9540929b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2Mzl8MHwxfHNlYXJjaHwyfHxzb2Z0JTIwdGV4dHVyZXxlbnwwfHx8fDE3NTMzNDAwOTB8MA&ixlib=rb-4.1.0&q=85');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
     position: relative;
     overflow: hidden;
 }
@@ -64,7 +69,8 @@
     right: 0;
     bottom: 0;
     background-image: 
-        radial-gradient(circle at 20% 80%, rgba(120, 119, 198, 0.05) 0%, transparent 50%),
+        linear-gradient(135deg, rgba(250, 248, 246, 0.3) 0%, rgba(255, 255, 255, 0.2) 50%, rgba(250, 248, 246, 0.3) 100%),
+        radial-gradient(circle at 20% 80%, rgba(244, 114, 182, 0.02) 0%, transparent 50%),
         radial-gradient(circle at 80% 20%, rgba(255, 255, 255, 0.1) 0%, transparent 50%),
         radial-gradient(circle at 40% 40%, rgba(244, 114, 182, 0.03) 0%, transparent 50%);
     pointer-events: none;
@@ -321,7 +327,27 @@
     }
 }
 
-/* Enhanced Selection Styles */
+/* Hero Section Enhancement */
+.hero-romantic {
+    position: relative;
+    background: 
+        linear-gradient(135deg, rgba(255, 255, 255, 0.7) 0%, rgba(250, 248, 246, 0.6) 100%),
+        url('https://images.unsplash.com/photo-1591969851586-adbbd4accf81?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1ODF8MHwxfHNlYXJjaHwyfHxyb21hbnRpYyUyMGNvdXBsZXxlbnwwfHx8fDE3NTMzNDAwNzR8MA&ixlib=rb-4.1.0&q=85');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.hero-romantic::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.8) 0%, rgba(250, 248, 246, 0.9) 50%, rgba(255, 255, 255, 0.8) 100%);
+    pointer-events: none;
+}
 ::selection {
     background: rgba(244, 114, 182, 0.2);
     color: #be185d;
